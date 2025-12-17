@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou Reuel Vinicius
 
-<!--
-**Lost-swq/Lost-swq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7&size=24&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo)
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 💻 Desenvolvedor focado em aprender e evoluir constantemente
+- 📚 Estudando JavaScript, React e Python
+- 🎯 Em busca de oportunidades para crescer na área de tecnologia
+- 🌎 Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
