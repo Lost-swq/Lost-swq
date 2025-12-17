@@ -23,7 +23,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lost-swq&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lost-swq&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=Lost-swq&color=blue)
-
 ## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reuel-vinicius-86b0a0374/)
