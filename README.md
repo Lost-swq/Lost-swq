@@ -9,13 +9,22 @@
 - 🌎 Brasil
 
 ## 🛠️ Tecnologias
+
 <p>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  
 </p>
 
 ## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lost-swq&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lost-swq&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Lost-swq&color=blue)
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reuel-vinicius-86b0a0374/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/reuelaraujo_)
